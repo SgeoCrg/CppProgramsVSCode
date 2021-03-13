@@ -1,0 +1,12 @@
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/bin/Debug/netcoreapp3.1/InventarioTrastos.deps.json
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/bin/Debug/netcoreapp3.1/InventarioTrastos.runtimeconfig.json
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/bin/Debug/netcoreapp3.1/InventarioTrastos.runtimeconfig.dev.json
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/bin/Debug/netcoreapp3.1/InventarioTrastos.dll
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/bin/Debug/netcoreapp3.1/InventarioTrastos.pdb
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/obj/Debug/netcoreapp3.1/InventarioTrastos.csprojAssemblyReference.cache
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/obj/Debug/netcoreapp3.1/InventarioTrastos.AssemblyInfoInputs.cache
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/obj/Debug/netcoreapp3.1/InventarioTrastos.AssemblyInfo.cs
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/obj/Debug/netcoreapp3.1/InventarioTrastos.csproj.CoreCompileInputs.cache
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/obj/Debug/netcoreapp3.1/InventarioTrastos.dll
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/obj/Debug/netcoreapp3.1/InventarioTrastos.pdb
+/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/obj/Debug/netcoreapp3.1/InventarioTrastos.genruntimeconfig.cache
