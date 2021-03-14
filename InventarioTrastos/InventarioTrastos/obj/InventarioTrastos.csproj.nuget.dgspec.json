@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/InventarioTrastos.csproj": {}
+    "/Users/alejandropertinezgomez/Projects/CppProgramsVSCode/InventarioTrastos/InventarioTrastos/InventarioTrastos.csproj": {}
   },
   "projects": {
-    "/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/InventarioTrastos.csproj": {
+    "/Users/alejandropertinezgomez/Projects/CppProgramsVSCode/InventarioTrastos/InventarioTrastos/InventarioTrastos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/InventarioTrastos.csproj",
+        "projectUniqueName": "/Users/alejandropertinezgomez/Projects/CppProgramsVSCode/InventarioTrastos/InventarioTrastos/InventarioTrastos.csproj",
         "projectName": "InventarioTrastos",
-        "projectPath": "/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/InventarioTrastos.csproj",
+        "projectPath": "/Users/alejandropertinezgomez/Projects/CppProgramsVSCode/InventarioTrastos/InventarioTrastos/InventarioTrastos.csproj",
         "packagesPath": "/Users/alejandropertinezgomez/.nuget/packages/",
-        "outputPath": "/Users/alejandropertinezgomez/Projects/InventarioTrastos/InventarioTrastos/obj/",
+        "outputPath": "/Users/alejandropertinezgomez/Projects/CppProgramsVSCode/InventarioTrastos/InventarioTrastos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alejandropertinezgomez/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

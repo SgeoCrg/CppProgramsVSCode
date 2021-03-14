@@ -16,4 +16,17 @@ public class Ubicacion
     {
         return muebles[posicion];
     }
+
+    public void ListaToString()
+    {
+        for (int i = 0; i < muebles.Count; i++)
+        {
+            Console.Write("" + getMueble(i).ToString());
+        }
+    }
+
+    public override string ToString()
+    {
+        return nombre;
+    }
 }
